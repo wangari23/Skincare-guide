@@ -1,0 +1,32 @@
+body{
+	background-color: slategrey;
+	background-image:url(background2.jpeg);
+}
+
+h1{
+	margin:0px;
+	margin-left:100px;
+	font-family: verdana;
+	border-style:double;
+	border-color:black;
+	border-radius:20px;
+	text-align:center;
+}
+p{
+	font-family: verdana;
+}
+nav {
+    text-align: right;
+}
+
+nav a {
+    display: inline-block;
+    margin: 0 10px;
+    text-decoration: none;
+}
+ 
+
+nav a: hover{
+	color: white;
+
+}
